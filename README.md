@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **python, django,react, nodejs**
+- 💬 Ask me about **python, django,react, nodejs, javascript, java**
 
 - 📫 How to reach me **rjregalado1979@gmail.com**
 
