@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rjregalado1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rjregalado1979" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-regalado-20014a15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-regalado-20014a15/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rojre1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rojre1979" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/rojre2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rojre2020" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@rjregalado1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@rjregalado1979" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robert-regalado-20014a15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-regalado-20014a15/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rojre1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rojre1979" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rojre2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rojre2020" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rjregalado1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@rjregalado1979" height="30" width="40" /></a>
 </p>
 
 <hr style="border:0.5px solid gray">
