@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Robert J. Regalado</h1>
-<h3 align="left">A passionate fullstack web developer from Philippines.</h3>
+<h3 align="left">A passionate full-stack web developer from Philippines.</h3>
 <img align="center" alt="Python" width="600" src="https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rojre1979&label=Profile%20views&color=0e75b6&style=flat" alt="rojre1979" /> </p>
