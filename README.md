@@ -2,9 +2,9 @@
 <h3 align="left">A passionate Python developer from Philippines.</h3>
 <img align="center" alt="Python" width="600" src="https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rojre1979&label=Profile%20views&color=0e75b6&style=flat" alt="rojre1979" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=robertregalado&label=Profile%20views&color=0e75b6&style=flat" alt="robertregalado" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rojre1979" alt="rojre1979" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertregalado" alt="robertregalado" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rjregalado1979" target="blank"><img src="https://img.shields.io/twitter/follow/rjregalado1979?logo=twitter&style=for-the-badge" alt="rjregalado1979" /></a> </p>
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/rjregalado1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rjregalado1979" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/robert-regalado-20014a15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-regalado-20014a15/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/rojre1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rojre1979" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/robertregalado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/robertregalado" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rojre2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rojre2020" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rjregalado1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@rjregalado1979" height="30" width="40" /></a>
 </p>
@@ -33,10 +33,10 @@
 
 <hr style="border:0.5px solid gray">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rojre1979&show_icons=true&locale=en&layout=compact" alt="rojre1979" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertregalado&show_icons=true&locale=en&layout=compact" alt="robertregalado" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rojre1979&show_icons=true&locale=en" alt="rojre1979" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertregalado&show_icons=true&locale=en" alt="robertregalado" /></p>
 
 <hr style="border:0.5px solid gray">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojre1979&" alt="rojre1979" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertregalado&" alt="robertregalado" /></p>
 
