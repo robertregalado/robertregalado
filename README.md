@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rjregalado1979" target="blank"><img src="https://img.shields.io/twitter/follow/rjregalado1979?logo=twitter&style=for-the-badge" alt="rjregalado1979" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web3**, and **Data Science(Analyst, Data Engineer and Machine Learning)**
 
 - 💬 Ask me about **python, django,react, nodejs, javascript, java**
 
